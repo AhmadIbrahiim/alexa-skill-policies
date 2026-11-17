@@ -16,9 +16,13 @@ One public repository for privacy policies and usage terms for Azimti, Al Faza a
 
 [الرئيسية · Policy hub](https://ahmadibrahiim.github.io/alexa-skill-policies/) · [الدعم · Support](https://ahmadibrahiim.github.io/alexa-skill-policies/support.html)
 
-الصفحات العربية أولاً، وتتضمن الأقسام الإنجليزية في الصفحة نفسها. توجد الملفات العامة في [docs/](docs/)، مع خطوط النظام وأصول SVG محلية، دون نماذج إدخال أو نصوص برمجية أو تحليلات أو أصول خارجية. إرسال بريد للدعم يشارك عنوان المرسل ومحتوى رسالته مع المشغل؛ اقرأ [صفحة الدعم](docs/support.html).
+الصفحات العربية أولاً، وتتضمن الأقسام الإنجليزية في الصفحة نفسها. توجد الملفات العامة في [docs/](docs/)، مع خطوط النظام وأصول PNG وSVG محلية، دون نماذج إدخال أو نصوص برمجية أو تحليلات أو أصول خارجية. إرسال بريد للدعم يشارك عنوان المرسل ومحتوى رسالته مع المشغل؛ اقرأ [صفحة الدعم](docs/support.html).
 
-The pages are Arabic-first, with English sections on the same page. Public files are in [docs/](docs/), using system fonts and local SVG assets, without forms, scripts, analytics or external assets. Emailing support shares the sender’s email address and message with the operator; read [support](docs/support.html).
+The pages are Arabic-first, with English sections on the same page. Public files are in [docs/](docs/), using system fonts and local PNG/SVG assets, without forms, scripts, analytics or external assets. Emailing support shares the sender’s email address and message with the operator; read [support](docs/support.html).
+
+تستخدم الصفحات أيقونات التطبيقات الثلاثية الأبعاد التي اختارها المشغل في ١٧ نوفمبر ٢٠٢٦، من ملفات PNG بمقاس ٥١٢ × ٥١٢ الخاصة بكل مهارة. تبقى ملفات SVG السابقة متاحة كأصول مرافقة تاريخية؛ لم يتغير نص الخصوصية أو الاستخدام أو الدعم.
+
+Page logos and favicons use the 3D app icons selected by the operator on 17 November 2026: each local 512 × 512 PNG matches its skill's independent `app-icon-exploration/selected-512.png` export, generated with the authorized ChatGPT image creator and resized with Adobe. Earlier SVGs remain historical companions. Privacy, terms and support wording are unchanged.
 
 GitHub Pages is intended to serve **main / docs** at [ahmadibrahiim.github.io/alexa-skill-policies](https://ahmadibrahiim.github.io/alexa-skill-policies/). GitHub Pages processes web requests under its own policies. This repository contains only the public policy site and its publishing checks. The three skill code repositories remain private; runtime source, deployment credentials and private identifiers do not belong here.
 
