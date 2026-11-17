@@ -4,9 +4,9 @@
 
 One public repository for privacy policies and usage terms for Azimti, Al Faza and Majlis Scorekeeper. The operator is **Ahmed**; contact [alexa@ahmed-ibrahim.com](mailto:alexa@ahmed-ibrahim.com).
 
-**المهارات الثلاث نماذج تطوير غير منشورة حالياً.** تصف الصفحات التنفيذ الحالي وإعداد النشر المقدم، ولا تدّعي وجود خدمة منشورة أو مستخدمين فعليين.
+**المهارات الثلاث قيد التطوير وتجهيز الاعتماد، ولم تُنشر في المتجر بعد.** تصف الصفحات استضافة أليكسا الحالية وصلاحية الاستخدام داخل التطبيق والاحتفاظ تحت ضوابط أمازون، ولا تدّعي الاعتماد أو التوفر العام.
 
-**All three skills are currently unpublished development prototypes.** The pages describe the current implementation and supplied deployment configuration; they do not claim a live service or actual deployed users.
+**All three skills are in development and certification preparation, and have not been published in the store.** The pages describe current Alexa-hosted behavior, application inactivity expiry and Amazon-controlled retention; they do not claim certification or public availability.
 
 | المهارة · Skill | سياسة الخصوصية · Privacy policy | شروط الاستخدام · Usage terms |
 | --- | --- | --- |
