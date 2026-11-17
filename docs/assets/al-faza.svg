@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Al Faza</title>
+  <desc id="desc">A tent and a return arrow on warm paper.</desc>
+  <rect width="512" height="512" rx="104" fill="#F5F0E7"/>
+  <path d="M82 339 256 108 430 339Z" fill="#173B42"/>
+  <path d="m202 339 54-137 54 137Z" fill="#F5F0E7"/>
+  <path d="M104 378 H324 C355 378 374 365 374 342 V354 L359 369 L342 352 L386 308 L430 352 L413 369 L398 354 V342 C398 384 370 402 324 402 H104 A12 12 0 0 1 104 378 Z" fill="#9C4A31"/>
+</svg>
